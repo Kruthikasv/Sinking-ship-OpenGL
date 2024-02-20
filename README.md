@@ -13,12 +13,12 @@ the co-ordinate system.
 In this project I have created a simple light using “OpenGL” functional API by the  help of built in the functions present in the header file. To provide functionality to the project  I have written sub functions. These functions provide us the efficient way to design the  project.
 
 User Defined Functions 
-void update() : This function is used to display lightning and update speed of ship. 
-void display() : This function is used display the screen and call display1(). 
-void display1() : This function is used display the ship. 
-void restart() : This function is used to take the ship back to initial position. 
-void draw_circle() : This function is used to draw circle whenever it is required.
-void water() : This function is used to draw water. 
-void ship() : This function is used to draw ship and Indian flag. 
-void myinit() : This function initializes OpenGL’s rendering modes. 
-void createMenu() : This function is used to create menu.
+void update() : This function is used to display lightning and update speed of ship. <br>
+void display() : This function is used display the screen and call display1(). <br>
+void display1() : This function is used display the ship. <br>
+void restart() : This function is used to take the ship back to initial position. <br>
+void draw_circle() : This function is used to draw circle whenever it is required.<br>
+void water() : This function is used to draw water. <br>
+void ship() : This function is used to draw ship and Indian flag. <br>
+void myinit() : This function initializes OpenGL’s rendering modes. <br>
+void createMenu() : This function is used to create menu.<br>
